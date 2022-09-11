@@ -10,3 +10,24 @@ background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
 }
+table {
+    border: 1px solid black;
+}
+td {
+    padding: 50px;
+    background-color: azure;
+}
+th {
+    padding: 50px;
+    background-color: azure;
+}
+ul
+{
+    margin:auto;
+    width: 50%;
+    list-style-type: none;
+}
+li {
+    padding: 5px;
+    background-color: azure;
+}
